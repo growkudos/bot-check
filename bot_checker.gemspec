@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ['engineering@growkudos.com']
 
   spec.summary       = 'Checks if user agent is a bot.'
-  spec.homepage      = "TODO: Put your gem's website or public repo URL here."
+  spec.homepage      = "https://github.com/growkudos/bot-check"
   spec.license       = 'MIT'
 
   spec.files         = `git ls-files -z`.split("\x0").reject do |f|
