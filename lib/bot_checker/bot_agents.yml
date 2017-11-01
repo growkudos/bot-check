@@ -2,7 +2,7 @@
 - <a href='http://www.unchaos.com/'> UnChaos Bot Hybrid Web Search Engine. </a> (vadim_gonchar@unchaos.com)
 - <b> UnChaosBot From Chaos To Order UnChaos Hybrid Web Search Engine at www.unchaos.com </b> (info@unchaos.com)
 - <http://www.sygol.com/> http://www.sygol.com
-- */Nutch-0.9-devF
+- /Nutch-0.9-devF
 - +SitiDi.net/SitiDiBot/1.0 (+Have Good Day)
 - -DIE-KRAEHE- META-SEARCH-ENGINE/1.1 http://www.die-kraehe.de
 - 192.comAgent
@@ -738,7 +738,6 @@
 - Mozilla/3.01 (Compatible; Links2Go Similarity Engine)
 - Mozilla/4.0
 - Mozilla/4.0 (agadine3.0) www.agada.de
-- Mozilla/4.0 (compatible: AstraSpider V.2.1 : astrafind.com)
 - Mozilla/4.0 (compatible;  Vagabondo/2.2; webcrawler at wise-guys dot nl; http://webagent.wise-guys.nl/)
 - Mozilla/4.0 (compatible;  Vagabondo/4.0Beta; webcrawler at wise-guys dot nl; http://webagent.wise-guys.nl/)
 - Mozilla/4.0 (compatible; Advanced Email Extractor v2.xx)
@@ -757,7 +756,6 @@
 - Mozilla/4.0 (compatible; MSIE 4.01; Windows CE; PPC; 240x320; SPV M700; OpVer 19.123.2.733) OrangeBot-Mobile 2008.0 (mobilesearch.support@orange-ftgroup.com)
 - Mozilla/4.0 (compatible; MSIE 4.0; Windows NT; Site Server 3.0 Robot) Indonesia Interactive
 - Mozilla/4.0 (compatible; MSIE 5.01; Windows NT 5.0) (samualt9@bigfoot.com)
-- Mozilla/4.0 (compatible; MSIE 5.0; NetNose-Crawler 2.0; A New Search Experience: http://www.netnose.com)
 - Mozilla/4.0 (compatible; MSIE 5.0; Windows 95) TrueRobot; 1.5
 - Mozilla/4.0 (compatible; MSIE 5.0; Windows 95) VoilaBot BETA 1.2 (http://www.voila.com/)
 - Mozilla/4.0 (compatible; MSIE 5.0; Windows 95) VoilaBot; 1.6
@@ -843,6 +841,7 @@
 - Mozilla/5.0 (compatible; Galbot/1.0; +http://www.galbot.com/bot.html)
 - mozilla/5.0 (compatible; genevabot http://www.healthdash.com)
 - Mozilla/5.0 (compatible; Googlebot/2.1; http://www.google.com/bot.html)
+- Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
 - mozilla/5.0 (compatible; heritrix/1.0.4 http://innovationblog.com)
 - Mozilla/5.0 (compatible; heritrix/1.10.2 +http://i.stanford.edu/)
 - Mozilla/5.0 (compatible; heritrix/1.12.1 +http://newstin.com/)
@@ -887,6 +886,7 @@
 - Mozilla/5.0 (compatible; Yahoo! DE Slurp; http://help.yahoo.com/help/us/ysearch/slurp)
 - Mozilla/5.0 (compatible; Yahoo! Slurp China; http://misc.yahoo.com.cn/help.html)
 - Mozilla/5.0 (compatible; Yahoo! Slurp; http://help.yahoo.com/help/us/ysearch/slurp)
+- Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)
 - Mozilla/5.0 (compatible; Yoono; http://www.yoono.com/)
 - Mozilla/5.0 (compatible; YoudaoBot/1.0; http://www.youdao.com/help/webmaster/spider/; )
 - Mozilla/5.0 (compatible; Zenbot/1.3; +http://zen.co.za/webmasters/)
@@ -1090,7 +1090,6 @@
 - RoboCrawl (www.canadiancontent.net)
 - RoboPal (http://www.findpal.com/)
 - Robot/www.pj-search.com
-- Robot: NutchCrawler- Owner: wdavies@acm.org
 - Robot@SuperSnooper.Com
 - Robozilla/1.0
 - Rotondo/3.1 libwww/5.3.1
@@ -1264,7 +1263,6 @@
 - Szukacz/1.x (robot; www.szukacz.pl/jakdzialarobot.html; szukacz@proszynski.pl)
 - tags2dir.com/0.8 (+http://tags2dir.com/directory/)
 - Tagword (http://tagword.com/dmoz_survey.php)
-- Talkro Web-Shot/1.0 (E-mail: webshot@daumsoft.com- Home: http://222.122.15.190/webshot)
 - TCDBOT/Nutch-0.8 (PhD student research;http://www.tcd.ie; mcgettrs at t c d dot IE)
 - TECOMAC-Crawler/0.x
 - Tecomi Bot (http://www.tecomi.com/bot.htm)
