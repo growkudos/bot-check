@@ -10,7 +10,7 @@ describe BotChecker do
   end
 
   context 'when passed a user agent' do
-    subject { checker.bot?(user_agent)}
+    subject { checker.bot?(user_agent) }
 
     context 'that is not in the list' do
       let(:user_agent) { 'some user-agent' }
