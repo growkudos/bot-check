@@ -1,5 +1,7 @@
 # BotChecker
 
+Inspired by https://github.com/charlotte-ruby/impressionist
+
 Compares a user-agent against a list of known bot user-agents.
 
 ## Installation
