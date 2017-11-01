@@ -4,7 +4,7 @@ module BotChecker
   class Lister
 
     def initialize
-      @list = YAML.load_file('lib/bot_checker/bot_agents.yml')
+      @list = YAML.load_file(File.join(File.dirname(__FILE__), 'bot_agents.yml'))
     end
 
     def include?(user_agent)
